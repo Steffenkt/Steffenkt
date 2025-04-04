@@ -23,8 +23,16 @@ If you're interested in collaboration or want to learn more about my work, let's
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffenkt&layout=compact)
 
 ## Social Media & Networking
-- **Xing:** [Steffen Kaster](https://www.xing.com/profile/Steffen_Kaster)
-- **LinkedIn:** [Steffen Kaster](https://www.linkedin.com/in/steffen-kaster-549b8413b/?originalSubdomain=de)
+
+<a href="https://www.xing.com/profile/Steffen_Kaster" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/xing.svg" alt="Xing" width="30" height="30" style="margin-right: 10px;">
+</a>
+<a href="https://www.linkedin.com/in/steffen-kaster-549b8413b/?originalSubdomain=de" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;">
+</a>
+<a href="https://profiles.wordpress.org/steffenka/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" alt="WordPress" width="30" height="30">
+</a>
 
 <!---
 Steffenkt/Steffenkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
