@@ -45,15 +45,12 @@ Check out our organization: [@Kaster-Development](https://github.com/Kaster-Deve
 
 ## 📊 GitHub Activity
 
-<div align="center">
 
 The following stats are just a snapshot and may differ from my overall activity due to private repositories and external Git servers.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steffenkt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffenkt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-</div>
 
 ---
 
